@@ -72,3 +72,31 @@ Finaly, click OK.
 
 ## 3- _Installation debian_ 🔨
 
+first, click start
+
+<img width="1282" alt="Screen Shot 2024-12-07 at 3 08 51 PM" src="https://github.com/user-attachments/assets/a68aec87-e0d3-4167-bea6-2305c63f40c4">
+
+Second, to adjust the window size, follow the steps in the photo below.
+
+<img width="695" alt="Screen Shot 2024-12-07 at 3 14 34 PM" src="https://github.com/user-attachments/assets/7a97ced8-935f-431f-8c4a-923d41612a7b">
+
+Third, move to 'Install' by clicking the down arrow key (↓), And press the Enter key on the keyboard.
+
+![image](https://github.com/user-attachments/assets/8473a69e-e408-4a13-80ea-0d48532663f7)
+
+Next, choose the language you want
+
+![image](https://github.com/user-attachments/assets/6462ba46-9f22-4bf8-b1d5-4b5ee9827e6d)
+
+Next, choose the country where you live. 
+
+![image](https://github.com/user-attachments/assets/69cc895c-c193-476c-9de9-4d343177f5b9)
+
+Next, choose your preferred keyboard language.
+
+![image](https://github.com/user-attachments/assets/e19e5c59-ee5d-4a06-9a96-59fc0bd6d0c3)
+
+Next, in the host name it must be your login + 42 like (name42)
+
+![image](https://github.com/user-attachments/assets/07168d9a-8fb9-49ac-bc7c-f16406468d95)
+
