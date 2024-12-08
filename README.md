@@ -96,7 +96,43 @@ Next, choose your preferred keyboard language.
 
 ![image](https://github.com/user-attachments/assets/e19e5c59-ee5d-4a06-9a96-59fc0bd6d0c3)
 
-Next, in the host name it must be your login + 42 like (name42)
+Next, in the host name it must be your login + 42 like (name42) and press The Enter button
 
 ![image](https://github.com/user-attachments/assets/07168d9a-8fb9-49ac-bc7c-f16406468d95)
+
+Next, in domain name don't write anything and press The Enter key on the keyboard
+
+![image](https://github.com/user-attachments/assets/96947a7e-4584-4b57-81bd-8a2692584683)
+
+Next, enter a strong password that you won't forget and write it down on a piece of paper because you will need it in the future (إن شاء الله).
+
+If you want to see your password, move to the next box by pressing the 'TAB' or 'Arrow' keys and press the 'Space' button.
+
+when you finish presss the "Enter" Button .
+
+![image](https://github.com/user-attachments/assets/a5dc3926-be0f-4cae-8760-15299029dbcb)
+
+Re-enter the password and press the 'Enter' button.
+
+![image](https://github.com/user-attachments/assets/115b0e74-b506-4ebe-b451-543d5d878c1f)
+
+
+Here, enter your Intra login name, as specified in the subject. They require creating a user different from 'root,' and it must be your login name. After entering it, press the 'Enter' button.
+
+![image](https://github.com/user-attachments/assets/3f9357fa-3a08-4bef-8245-5d99ab7d7ff1)
+
+Repeat your Intra login name.
+
+![image](https://github.com/user-attachments/assets/a0f2dc09-8f1d-4b9d-b197-694fbd5c0735)
+
+Set up a password for the user.
+
+![image](https://github.com/user-attachments/assets/95edf88a-a8ca-4a0e-8207-7ca9e3f5acf7)
+
+Re-enter the password .
+
+![image](https://github.com/user-attachments/assets/b5ab2e7a-cb4e-48eb-bb3d-9c9aae0a1b71)
+
+
+
 
